@@ -1,0 +1,507 @@
+{
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2024-03-06 15:47:38 -0900"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2024-03-06 18:54:11 -0900"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-03-06 15:22:27 -0900"
+    },
+    "done": false
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-03-07 17:41:36 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-03-06 15:16:21 -0900"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-03-06 17:30:02 -0900"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-03-06 15:18:54 -0900"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-03-06 15:24:20 -0900"
+    },
+    "done": true
+  },
+  "cave_enhancements:below_zero": {
+    "criteria": {
+      "below_y_zero": "2024-03-06 15:29:20 -0900"
+    },
+    "done": true
+  },
+  "trolldom:discovery/air_shrine": {
+    "criteria": {
+      "shrine": "2024-03-06 17:25:13 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-06 15:11:59 -0900"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "crystalline_chasm": "2024-03-09 10:21:40 -0900",
+      "orchard": "2024-03-06 15:23:03 -0900",
+      "lavender_forest": "2024-03-06 15:22:20 -0900",
+      "redwood_forest": "2024-03-06 15:22:47 -0900",
+      "cherry_blossom_grove": "2024-03-09 09:27:02 -0900",
+      "dune_beach": "2024-03-09 10:08:36 -0900",
+      "lavender_field": "2024-03-06 15:41:35 -0900",
+      "undergrowth": "2024-03-07 16:46:57 -0900"
+    },
+    "done": false
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-03-06 17:30:02 -0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-03-07 16:41:12 -0900"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-03-09 12:04:23 -0900"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-03-09 11:16:47 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "atmospheric:rainforest_basin": "2024-03-09 13:49:02 -0900",
+      "atmospheric:rainforest": "2024-03-09 13:47:55 -0900",
+      "minecraft:birch_forest": "2024-03-06 16:50:42 -0900",
+      "minecraft:beach": "2024-03-06 15:03:25 -0900",
+      "minecraft:dark_forest": "2024-03-09 13:38:50 -0900",
+      "minecraft:river": "2024-03-06 15:03:18 -0900",
+      "minecraft:forest": "2024-03-06 15:05:02 -0900",
+      "minecraft:lush_caves": "2024-03-09 11:38:54 -0900",
+      "minecraft:ocean": "2024-03-06 15:04:15 -0900",
+      "minecraft:jungle": "2024-03-09 13:51:07 -0900",
+      "atmospheric:sparse_rainforest_basin": "2024-03-09 13:49:31 -0900",
+      "minecraft:flower_forest": "2024-03-06 17:25:21 -0900",
+      "minecraft:old_growth_birch_forest": "2024-03-06 16:51:09 -0900",
+      "minecraft:meadow": "2024-03-09 11:36:52 -0900",
+      "minecraft:plains": "2024-03-06 15:02:46 -0900"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-06 15:52:45 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-03-07 15:15:34 -0900"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2024-03-09 12:18:35 -0900"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-03-06 15:29:54 -0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-06 15:09:40 -0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-03-09 10:32:08 -0900"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-03-09 09:33:28 -0900"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2024-03-06 15:47:38 -0900"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-03-06 15:27:20 -0900"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2024-03-06 15:29:20 -0900"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-03-06 17:30:02 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-03-06 15:05:38 -0900"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-03-06 15:24:20 -0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-03-07 16:46:18 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-03-06 15:16:18 -0900"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-03-09 13:09:25 -0900",
+      "in_better_monster_room": "2024-03-06 15:32:27 -0900"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-03-09 13:09:25 -0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-03-06 15:03:42 -0900"
+    },
+    "done": true
+  },
+  "xercamusic:achievements/root": {
+    "criteria": {
+      "crafting_table": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2024-03-07 14:48:12 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-03-06 18:53:19 -0900",
+      "minecraft:skeleton": "2024-03-06 16:32:07 -0900",
+      "minecraft:spider": "2024-03-06 15:36:31 -0900",
+      "minecraft:piglin_brute": "2024-03-07 16:46:40 -0900",
+      "minecraft:creeper": "2024-03-06 15:53:29 -0900",
+      "minecraft:slime": "2024-03-09 12:10:10 -0900",
+      "quark:forgotten": "2024-03-09 11:16:35 -0900",
+      "minecraft:witch": "2024-03-06 16:42:29 -0900",
+      "minecraft:cave_spider": "2024-03-06 16:42:30 -0900",
+      "minecraft:piglin": "2024-03-07 16:46:51 -0900",
+      "minecraft:enderman": "2024-03-06 15:21:43 -0900",
+      "minecraft:silverfish": "2024-03-09 11:23:52 -0900",
+      "minecraft:zombie": "2024-03-06 15:16:21 -0900",
+      "quark:foxhound": "2024-03-09 10:36:24 -0900",
+      "minecraft:zombie_villager": "2024-03-07 16:01:13 -0900",
+      "savage_and_ravage:skeleton_villager": "2024-03-06 17:46:06 -0900"
+    },
+    "done": false
+  },
+  "chalk:adventure/get_skeleton_skull": {
+    "criteria": {
+      "slept_in_bed": "2024-03-06 16:43:10 -0900"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-03-06 17:30:02 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-03-07 16:41:12 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-03-07 15:43:53 -0900"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-03-06 15:12:44 -0900"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2024-03-06 15:47:38 -0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2024-03-06 17:31:13 -0900",
+      "neapolitan:strawberry_scones": "2024-03-06 16:04:23 -0900",
+      "cooked_porkchop": "2024-03-06 16:32:36 -0900",
+      "cooked_beef": "2024-03-06 15:13:09 -0900",
+      "sullysmod:lanternfish": "2024-03-07 15:29:21 -0900",
+      "cooked_chicken": "2024-03-09 11:55:25 -0900",
+      "bread": "2024-03-06 15:22:09 -0900",
+      "rotten_flesh": "2024-03-06 15:53:45 -0900",
+      "carrot": "2024-03-06 15:09:40 -0900"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-03-06 18:06:29 -0900"
+    },
+    "done": true
+  },
+  "trolldom:discovery/earth_shrine": {
+    "criteria": {
+      "shrine": "2024-03-09 11:23:39 -0900"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2024-03-06 15:48:01 -0900"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-03-06 17:38:35 -0900"
+    },
+    "done": true
+  },
+  "cave_enhancements:spelunker_voyage": {
+    "criteria": {
+      "lush_caves": "2024-03-09 11:38:54 -0900",
+      "rose_quartz_caves": "2024-03-07 15:24:03 -0900"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-03-07 16:41:41 -0900",
+      "minecraft:nether_wastes": "2024-03-07 16:41:12 -0900",
+      "minecraft:soul_sand_valley": "2024-03-09 10:23:10 -0900"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lavender_forest": "2024-03-06 15:22:20 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-03-06 18:53:19 -0900"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2024-03-07 15:17:52 -0900"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "simpledrills:simple_drills": {
+    "criteria": {
+      "simple_drills": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-06 15:19:02 -0900"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-03-06 15:02:45 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-03-06 15:34:01 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-03-06 15:29:54 -0900"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2024-03-06 18:05:22 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-03-06 15:08:14 -0900"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-03-06 15:32:27 -0900"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-03-09 09:26:24 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-03-06 15:38:05 -0900"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-03-07 16:45:38 -0900"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-03-06 15:32:28 -0900"
+    },
+    "done": true
+  },
+  "trolldom:discovery/root": {
+    "criteria": {
+      "always": "2024-03-06 15:02:46 -0900"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-03-09 09:33:28 -0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

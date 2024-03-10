@@ -1,0 +1,730 @@
+{
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2024-03-08 22:20:50 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-03-07 23:30:53 -0900"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-03-06 18:21:06 -0900"
+    },
+    "done": false
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-03-06 17:09:26 -0900"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-03-06 18:51:59 -0900"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-03-06 15:22:13 -0900"
+    },
+    "done": true
+  },
+  "trolldom:discovery/air_shrine": {
+    "criteria": {
+      "shrine": "2024-03-06 15:28:21 -0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-03-07 16:41:06 -0900"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-03-08 17:02:34 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
+    "criteria": {
+      "requirement": "2024-03-08 22:20:52 -0900"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-03-07 14:39:18 -0900"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-03-08 23:08:28 -0900"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2024-03-06 17:36:03 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-03-07 21:53:39 -0900"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-03-08 21:49:35 -0900"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-03-07 16:06:16 -0900"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2024-03-06 15:34:25 -0900"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-03-06 18:14:28 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-03-07 22:22:41 -0900"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-03-06 15:22:13 -0900"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "blue": "2024-03-06 18:36:56 -0900"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-03-07 14:23:09 -0900"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "trophy": "2024-03-07 23:24:51 -0900"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-03-07 16:56:17 -0900"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-03-07 16:09:47 -0900"
+    },
+    "done": true
+  },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2024-03-09 14:32:13 -0900"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2024-03-06 18:04:13 -0900"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-03-06 18:14:28 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2024-03-08 22:23:17 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-03-07 15:45:48 -0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2024-03-09 13:32:36 -0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "neapolitan:strawberry_scones": "2024-03-07 15:01:39 -0900",
+      "neapolitan:strawberries": "2024-03-07 16:59:21 -0900",
+      "cooked_porkchop": "2024-03-07 16:06:22 -0900",
+      "cooked_beef": "2024-03-06 18:40:43 -0900",
+      "cooked_chicken": "2024-03-07 16:17:01 -0900",
+      "apple": "2024-03-06 16:33:43 -0900",
+      "bread": "2024-03-06 15:18:05 -0900",
+      "golden_apple": "2024-03-08 17:11:33 -0900",
+      "porkchop": "2024-03-08 10:16:57 -0900",
+      "carrot": "2024-03-06 16:29:08 -0900"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-03-06 18:51:38 -0900"
+    },
+    "done": true
+  },
+  "trolldom:discovery/earth_shrine": {
+    "criteria": {
+      "shrine": "2024-03-09 12:43:27 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2024-03-08 00:13:34 -0900"
+    },
+    "done": true
+  },
+  "cave_enhancements:spelunker_voyage": {
+    "criteria": {
+      "dripstone_caves": "2024-03-06 18:56:36 -0900",
+      "deep_dark": "2024-03-07 16:09:47 -0900",
+      "lush_caves": "2024-03-09 12:40:34 -0900",
+      "rose_quartz_caves": "2024-03-07 20:12:26 -0900"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lavender_forest": "2024-03-06 15:20:36 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-06 17:07:48 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_druidic": {
+    "criteria": {
+      "requirement": "2024-03-08 22:20:49 -0900"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/devils_hole_pupfish_bucket": {
+    "criteria": {
+      "sopa_de_macaco": "2024-03-09 00:43:07 -0900"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_sapling": "2024-03-08 17:00:20 -0900",
+      "canopy_sapling": "2024-03-08 17:01:51 -0900"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-03-07 14:39:18 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-03-06 18:51:59 -0900"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2024-03-07 23:44:05 -0900"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-03-07 23:23:15 -0900"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-03-06 16:34:13 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-03-08 20:34:59 -0900"
+    },
+    "done": true
+  },
+  "trolldom:discovery/root": {
+    "criteria": {
+      "always": "2024-03-06 15:05:54 -0900"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-03-06 15:05:54 -0900"
+    },
+    "done": true
+  },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2024-03-06 17:44:11 -0900"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2024-03-09 00:42:34 -0900"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-03-06 16:58:25 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-03-06 16:34:12 -0900"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-03-06 18:12:53 -0900"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-03-08 23:10:06 -0900"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-03-06 18:14:28 -0900"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-03-06 15:09:25 -0900"
+    },
+    "done": true
+  },
+  "cave_enhancements:below_zero": {
+    "criteria": {
+      "below_y_zero": "2024-03-06 15:34:25 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-06 15:12:24 -0900"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2024-03-07 14:48:06 -0900",
+      "shrubland": "2024-03-06 18:13:45 -0900",
+      "rocky_shrubland": "2024-03-08 10:09:24 -0900",
+      "scrubland": "2024-03-06 18:41:37 -0900",
+      "highland": "2024-03-08 10:09:14 -0900",
+      "bamboo_grove": "2024-03-09 11:36:29 -0900",
+      "marsh": "2024-03-08 00:03:27 -0900",
+      "old_growth_woodland": "2024-03-08 21:06:23 -0900",
+      "maple_woods": "2024-03-08 10:19:36 -0900",
+      "crystalline_chasm": "2024-03-07 21:20:38 -0900",
+      "orchard": "2024-03-06 15:21:14 -0900",
+      "lavender_forest": "2024-03-06 15:20:36 -0900",
+      "mediterranean_forest": "2024-03-06 18:44:56 -0900",
+      "coniferous_forest": "2024-03-08 10:19:44 -0900",
+      "redwood_forest": "2024-03-06 15:25:53 -0900",
+      "cherry_blossom_grove": "2024-03-06 17:46:24 -0900",
+      "dune_beach": "2024-03-06 15:29:21 -0900",
+      "seasonal_forest": "2024-03-08 10:19:23 -0900",
+      "rocky_rainforest": "2024-03-07 19:16:47 -0900",
+      "lavender_field": "2024-03-06 15:28:16 -0900",
+      "undergrowth": "2024-03-07 16:47:43 -0900",
+      "rainforest": "2024-03-07 16:35:23 -0900"
+    },
+    "done": false
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-03-06 18:14:28 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "atmospheric:rainforest_basin": "2024-03-06 18:56:10 -0900",
+      "minecraft:deep_ocean": "2024-03-07 20:13:58 -0900",
+      "environmental:marsh": "2024-03-08 10:25:26 -0900",
+      "atmospheric:rainforest": "2024-03-06 18:56:37 -0900",
+      "minecraft:sunflower_plains": "2024-03-06 18:37:41 -0900",
+      "minecraft:birch_forest": "2024-03-07 16:22:18 -0900",
+      "minecraft:windswept_hills": "2024-03-07 14:31:14 -0900",
+      "minecraft:bamboo_jungle": "2024-03-09 10:51:13 -0900",
+      "minecraft:beach": "2024-03-06 15:25:10 -0900",
+      "minecraft:dark_forest": "2024-03-09 10:51:07 -0900",
+      "minecraft:sparse_jungle": "2024-03-09 10:57:57 -0900",
+      "minecraft:river": "2024-03-06 15:07:55 -0900",
+      "minecraft:lukewarm_ocean": "2024-03-09 10:51:15 -0900",
+      "minecraft:stony_shore": "2024-03-09 10:44:15 -0900",
+      "minecraft:dripstone_caves": "2024-03-06 18:56:36 -0900",
+      "minecraft:swamp": "2024-03-08 00:03:28 -0900",
+      "environmental:blossom_woods": "2024-03-08 10:33:11 -0900",
+      "minecraft:forest": "2024-03-06 15:25:19 -0900",
+      "minecraft:lush_caves": "2024-03-09 12:40:34 -0900",
+      "minecraft:jungle": "2024-03-06 19:00:21 -0900",
+      "minecraft:ocean": "2024-03-07 14:33:23 -0900",
+      "minecraft:windswept_savanna": "2024-03-07 14:33:03 -0900",
+      "minecraft:flower_forest": "2024-03-06 15:28:30 -0900",
+      "atmospheric:sparse_rainforest": "2024-03-06 18:55:46 -0900",
+      "minecraft:old_growth_birch_forest": "2024-03-06 17:46:02 -0900",
+      "minecraft:deep_dark": "2024-03-07 16:09:47 -0900",
+      "minecraft:meadow": "2024-03-07 15:56:06 -0900",
+      "minecraft:savanna": "2024-03-06 18:36:33 -0900",
+      "minecraft:plains": "2024-03-06 15:05:54 -0900"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-06 16:46:21 -0900"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-03-06 17:04:11 -0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2024-03-09 13:32:36 -0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-06 15:10:54 -0900"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2024-03-09 00:34:20 -0900"
+    },
+    "done": true
+  },
+  "trolldom:discovery/air_boon": {
+    "criteria": {
+      "shrine": "2024-03-07 22:47:33 -0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2024-03-09 12:24:17 -0900"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2024-03-06 18:31:11 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-03-06 16:56:42 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dragon": {
+    "criteria": {
+      "requirement": "2024-03-07 22:22:32 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-03-06 15:31:01 -0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-03-07 16:46:50 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-03-06 18:51:59 -0900"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2024-03-08 21:55:07 -0900"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "tier_1_rocket": "2024-03-09 15:01:42 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-03-07 15:53:30 -0900"
+    },
+    "done": true
+  },
+  "pneumaticcraft:oil_bucket": {
+    "criteria": {
+      "0": "2024-03-09 10:36:57 -0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-03-07 22:18:10 -0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "xercamusic:achievements/root": {
+    "criteria": {
+      "crafting_table": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2024-03-08 23:46:54 -0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-03-08 21:09:08 -0900",
+      "minecraft:skeleton": "2024-03-06 18:28:53 -0900",
+      "minecraft:spider": "2024-03-06 16:34:12 -0900",
+      "minecraft:creeper": "2024-03-08 10:18:37 -0900",
+      "minecraft:zombified_piglin": "2024-03-08 16:46:30 -0900",
+      "minecraft:witch": "2024-03-08 17:23:52 -0900",
+      "minecraft:silverfish": "2024-03-07 16:08:21 -0900",
+      "minecraft:zombie": "2024-03-07 16:03:52 -0900",
+      "quark:foxhound": "2024-03-07 16:43:39 -0900"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-03-07 16:41:06 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-03-08 22:20:43 -0900"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-03-06 17:07:56 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-03-08 22:41:53 -0900"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-03-07 16:02:53 -0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-03-07 23:39:53 -0900"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2024-03-08 23:46:37 -0900"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_root": {
+    "criteria": {
+      "requirement": "2024-03-06 16:53:58 -0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-03-07 16:41:27 -0900",
+      "minecraft:nether_wastes": "2024-03-07 16:41:06 -0900",
+      "minecraft:soul_sand_valley": "2024-03-07 21:19:34 -0900",
+      "minecraft:warped_forest": "2024-03-07 21:30:43 -0900"
+    },
+    "done": false
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-03-08 16:27:56 -0900"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "simpledrills:simple_drills": {
+    "criteria": {
+      "simple_drills": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-03-06 15:05:54 -0900"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-03-06 15:05:53 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-03-07 14:38:26 -0900"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-03-08 17:02:34 -0900"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2024-03-08 17:02:34 -0900"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-03-06 15:10:54 -0900"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-03-06 16:54:32 -0900"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-03-07 16:48:42 -0900"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-03-08 21:49:35 -0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
